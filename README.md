@@ -55,11 +55,14 @@ A networking lab exploring connectivity between AWS environments in Mumbai, Nort
 
 *Contribution graph is rendered by a third-party service and may occasionally be unavailable.*
 
-## Find Me Online
 
-- [GitHub](https://github.com/abhinav-1818)
-- [LinkedIn](https://www.linkedin.com/in/abhinav-dongrajkar-447693405/)
+## Contribution Activity
 
-<div align="center">
-  <img src="assets/abhinav-footer.svg" alt="Burgundy technical line footer" width="100%">
-</div>
+<img src="https://ghchart.rshah.org/701A3D/abhinav-1818" alt="Abhinav's GitHub contribution graph (live data from ghchart.rshah.org)" width="100%">
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav--1818-451126?style=for-the-badge&logo=github&logoColor=F8F0F3)](https://github.com/abhinav-1818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Dongrajkar-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/abhinav-dongrajkar-447693405/)
+
+<img src="assets/abhinav-footer.svg" alt="" width="100%">
