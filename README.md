@@ -49,13 +49,6 @@ A networking lab exploring connectivity between AWS environments in Mumbai, Nort
 - **Automation & scripting:** Python, Boto3
 - **Networking:** VPC peering, Transit Gateway, routing
 
-## GitHub Activity
-
-[![GitHub contribution graph](https://ghchart.rshah.org/451126/abhinav-1818)](https://github.com/abhinav-1818)
-
-*Contribution graph is rendered by a third-party service and may occasionally be unavailable.*
-
-
 ## Contribution Activity
 
 <img src="https://ghchart.rshah.org/701A3D/abhinav-1818" alt="Abhinav's GitHub contribution graph (live data from ghchart.rshah.org)" width="100%">
