@@ -3,9 +3,9 @@
 <img src="assets/abhinav-hero.svg" alt="Abhinav Dongrajkar — Cloud and DevOps Engineer" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhinav--1818-451126?style=flat-square&logo=github&logoColor=F8F0F3)](https://github.com/abhinav-1818)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-701A3D?style=flat-square&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/abhinav-dongrajkar-447693405/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav-Dongrajkar-701A3D?style=flat-square&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/abhinav-dongrajkar-447693405/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-701A3D?style=flat-square&logo=vercel&logoColor=F8F0F3)](https://portfolio-gray-phi-67.vercel.app/)
-[![Main Email](https://img.shields.io/badge/MAIN%20EMAIL-dongrajkarabhinav%40gmail.com-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3)](mailto:dongrajkarabhinav@gmail.com)
+[![Main Email](https://img.shields.io/badge/MAIN%20EMAIL-dongrajkarabhinav%40gmail.com-701A3D?style=flat-square&logo=gmail&logoColor=F8F0F3)](mailto:dongrajkarabhinav@gmail.com)
 
 </div>
 
