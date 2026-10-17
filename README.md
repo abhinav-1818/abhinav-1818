@@ -44,17 +44,6 @@ Built a practice environment demonstrating load balancing, scalable compute reso
 
 **Technologies:** AWS VPC · EC2 · ALB · Target Groups · Launch Templates · Auto Scaling
 
-### ⚡ EC2 Instance Scheduler
-
-Developed an automation workflow for scheduling EC2 instance start and stop operations using AWS services and Python.
-
-- Used AWS Lambda with Python and Boto3
-- Configured EventBridge Scheduler
-- Applied tag-based instance selection
-- Worked with IAM roles and permissions
-
-**Technologies:** EC2 · Lambda · EventBridge Scheduler · Python · Boto3 · IAM
-
 ### 💾 Dedicated MySQL Log Storage
 
 Practiced cloud storage administration by expanding an EBS volume and preparing Linux storage for a dedicated mount point.
