@@ -84,7 +84,7 @@ Explored AWS networking across Mumbai, Northern Virginia, and California through
 | **Cloud Platform** | AWS |
 | **AWS Services** | EC2, VPC, EBS, ALB, Auto Scaling, Lambda, EventBridge, IAM |
 | **Operating Systems** | Linux |
-| **Scripting & Automation** | Bash, Python, Boto3 |
+| **Scripting & Automation** | Bash, Python |
 | **Networking** | CIDR, Subnets, Routing, VPC Peering, Transit Gateway |
 | **Tools** | Git, GitHub, VS Code |
 
