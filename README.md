@@ -10,7 +10,6 @@
 </div>
 
 ---
-
 ## About Me
 
 I'm **Abhinav Dongrajkar**, a Computer Science graduate with a **CGPA of 9.14**, currently pursuing my **Master of Computer Applications (MCA)**.
